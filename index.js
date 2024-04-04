@@ -24,6 +24,24 @@ const nestedMuppet = {
   nestedJob: 'Host of The Muppet Show',
   nestedPartner: 'Miss Piggy'
 };
+const sounds = [meow, woof, oink, cluck]=farmAnimals.split(" ")
+const [catSound, dogSound,  pigSound, chickenSound] = sounds;
+
+
+const [red, orange, yellow, green, blue, indigo, violet] = colors
+
+const [r, o, y, g, b, , v] = colors
+const [ , , , , , indg, ] = colors
+
+
+const {name, color, song, job, partner} = muppet
+
+const {song_2, song_4} = k_muppet.k_album.the_muppet_movie
+const {k_job, k_partner} = k_muppet
+
+
+
+
 
 // Strings
 
